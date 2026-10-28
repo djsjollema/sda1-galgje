@@ -23,3 +23,4 @@
 -- is goed!
 - beurt 2: n
 -- is ook goed
+- beurt 3: o
