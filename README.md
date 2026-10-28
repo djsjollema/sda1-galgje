@@ -9,7 +9,7 @@
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| P | . | . | . | . | . | . | . | . | . | . | . |
+| P | . | N | . | . | . | . | . | N | . | . | . |
 | - | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
@@ -22,3 +22,4 @@
 - beurt 1.. p 
 -- is goed!
 - beurt 2: n
+-- is ook goed
