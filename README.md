@@ -21,3 +21,4 @@
 ## Beurtenlog
 - beurt 1.. p 
 -- is goed!
+- beurt 2: n
